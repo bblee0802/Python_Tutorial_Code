@@ -23,5 +23,3 @@ while  iYear != -9999:
         print(iYear, "년도는 평년입니다. \n\n") 
     
     iYear = int(input( "연도를 입력하세요.(-9999을 입력하면 종료합니다.) : "))       
-                    
-    
